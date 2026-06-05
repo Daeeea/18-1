@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "LastName": "Иванов",
+    "FirstName": "Иван",
+    "MiddleName": "Иванович",
+    "BirthDate": "1990-05-15T00:00:00",
+    "Gender": "Мужской",
+    "Department": "ИТ",
+    "Phone": "+7 (999) 123-45-67",
+    "Email": "ivanov@mail.ru",
+    "Salary": 85000.0,
+    "IsActive": true,
+    "FullName": "Иванов Иван Иванович",
+    "Age": 36
+  },
+  {
+    "Id": 2,
+    "LastName": "Петрова",
+    "FirstName": "Мария",
+    "MiddleName": "Сергеевна",
+    "BirthDate": "1992-08-23T00:00:00",
+    "Gender": "Женский",
+    "Department": "Бухгалтерия",
+    "Phone": "+7 (999) 234-56-78",
+    "Email": "petrova@mail.ru",
+    "Salary": 75000.0,
+    "IsActive": true,
+    "FullName": "Петрова Мария Сергеевна",
+    "Age": 34
+  },
+  {
+    "Id": 3,
+    "LastName": "Сидоров",
+    "FirstName": "Петр",
+    "MiddleName": "Алексеевич",
+    "BirthDate": "1988-12-10T00:00:00",
+    "Gender": "Мужской",
+    "Department": "HR",
+    "Phone": "+7 (999) 345-67-89",
+    "Email": "sidorov@mail.ru",
+    "Salary": 65000.0,
+    "IsActive": true,
+    "FullName": "Сидоров Петр Алексеевич",
+    "Age": 38
+  }
+]

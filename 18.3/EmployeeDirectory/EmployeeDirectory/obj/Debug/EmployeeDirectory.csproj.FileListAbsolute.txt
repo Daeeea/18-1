@@ -1,0 +1,12 @@
+E:\ПРОЕКТЫ\ПОПОВ\18.2\EmployeeDirectory\EmployeeDirectory\bin\Debug\EmployeeDirectory.exe.config
+E:\ПРОЕКТЫ\ПОПОВ\18.2\EmployeeDirectory\EmployeeDirectory\bin\Debug\EmployeeDirectory.exe
+E:\ПРОЕКТЫ\ПОПОВ\18.2\EmployeeDirectory\EmployeeDirectory\bin\Debug\EmployeeDirectory.pdb
+E:\ПРОЕКТЫ\ПОПОВ\18.2\EmployeeDirectory\EmployeeDirectory\bin\Debug\Newtonsoft.Json.dll
+E:\ПРОЕКТЫ\ПОПОВ\18.2\EmployeeDirectory\EmployeeDirectory\bin\Debug\Newtonsoft.Json.xml
+E:\ПРОЕКТЫ\ПОПОВ\18.2\EmployeeDirectory\EmployeeDirectory\obj\Debug\EmployeeDirectory.csproj.AssemblyReference.cache
+E:\ПРОЕКТЫ\ПОПОВ\18.2\EmployeeDirectory\EmployeeDirectory\obj\Debug\EmployeeDirectory.Properties.Resources.resources
+E:\ПРОЕКТЫ\ПОПОВ\18.2\EmployeeDirectory\EmployeeDirectory\obj\Debug\EmployeeDirectory.csproj.GenerateResource.cache
+E:\ПРОЕКТЫ\ПОПОВ\18.2\EmployeeDirectory\EmployeeDirectory\obj\Debug\EmployeeDirectory.csproj.CoreCompileInputs.cache
+E:\ПРОЕКТЫ\ПОПОВ\18.2\EmployeeDirectory\EmployeeDirectory\obj\Debug\Employee.66DA5E5D.Up2Date
+E:\ПРОЕКТЫ\ПОПОВ\18.2\EmployeeDirectory\EmployeeDirectory\obj\Debug\EmployeeDirectory.exe
+E:\ПРОЕКТЫ\ПОПОВ\18.2\EmployeeDirectory\EmployeeDirectory\obj\Debug\EmployeeDirectory.pdb
