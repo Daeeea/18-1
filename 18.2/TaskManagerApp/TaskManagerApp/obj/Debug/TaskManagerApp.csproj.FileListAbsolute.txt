@@ -1,0 +1,12 @@
+E:\ПРОЕКТЫ\ПОПОВ\18.2\TaskManagerApp\TaskManagerApp\bin\Debug\TaskManagerApp.exe.config
+E:\ПРОЕКТЫ\ПОПОВ\18.2\TaskManagerApp\TaskManagerApp\bin\Debug\TaskManagerApp.exe
+E:\ПРОЕКТЫ\ПОПОВ\18.2\TaskManagerApp\TaskManagerApp\bin\Debug\TaskManagerApp.pdb
+E:\ПРОЕКТЫ\ПОПОВ\18.2\TaskManagerApp\TaskManagerApp\bin\Debug\Newtonsoft.Json.dll
+E:\ПРОЕКТЫ\ПОПОВ\18.2\TaskManagerApp\TaskManagerApp\bin\Debug\Newtonsoft.Json.xml
+E:\ПРОЕКТЫ\ПОПОВ\18.2\TaskManagerApp\TaskManagerApp\obj\Debug\TaskManagerApp.csproj.AssemblyReference.cache
+E:\ПРОЕКТЫ\ПОПОВ\18.2\TaskManagerApp\TaskManagerApp\obj\Debug\TaskManagerApp.Properties.Resources.resources
+E:\ПРОЕКТЫ\ПОПОВ\18.2\TaskManagerApp\TaskManagerApp\obj\Debug\TaskManagerApp.csproj.GenerateResource.cache
+E:\ПРОЕКТЫ\ПОПОВ\18.2\TaskManagerApp\TaskManagerApp\obj\Debug\TaskManagerApp.csproj.CoreCompileInputs.cache
+E:\ПРОЕКТЫ\ПОПОВ\18.2\TaskManagerApp\TaskManagerApp\obj\Debug\TaskMana.3B1C9CD7.Up2Date
+E:\ПРОЕКТЫ\ПОПОВ\18.2\TaskManagerApp\TaskManagerApp\obj\Debug\TaskManagerApp.exe
+E:\ПРОЕКТЫ\ПОПОВ\18.2\TaskManagerApp\TaskManagerApp\obj\Debug\TaskManagerApp.pdb
